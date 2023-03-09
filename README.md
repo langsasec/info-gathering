@@ -80,6 +80,8 @@
 
 ## 谷歌语法
 
+可利用谷歌语法搜索社工库
+
 **inurl：**
 
 用于搜索包含的url关键词的网页，如：inurl: admin.php
@@ -103,8 +105,9 @@ https://www.exploit-db.com/google-hacking-database
 ## 外网
 
 Tg(社工库)，Twitter（著名勒索组织和黑客会发布信息）
+youtube会发社工库类的视频
 
-https://cxaqhq.github.io/，是个博客
+是个博客 https://cxaqhq.github.io/
 
 https://cn.0day.today/
 
@@ -144,4 +147,4 @@ https://t.me/cloudAlarmClockBot?start=5305412077
 
 https://t.me/+SwjoigVYpcw3OTBl
 
-https://tgsou.me/findtg/?keyword=%E7%A4%BE%E5%B7%A5
+搜就完了 https://tgsou.me/findtg/?keyword=%E7%A4%BE%E5%B7%A5
