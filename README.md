@@ -140,10 +140,11 @@ https://hackernews.cc/
 
 ## 社工库
 
+https://github.com/sedbfinder/freesgk
+
 https://t.me/fordarknetspiderbot
 
 https://t.me/+4tEN9koY_3EwMmNh
-
 
 https://t.me/cloudAlarmClockBot?start=5305412077
 
