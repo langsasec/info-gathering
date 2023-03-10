@@ -140,7 +140,11 @@ https://hackernews.cc/
 
 ## 社工库
 
-https://github.com/sedbfinder/freesgk
+https://t.me/sgk2022_11_30bot
+
+https://t.me/SGKmainNEWbot
+
+https://t.me/DATA_007bot
 
 https://t.me/fordarknetspiderbot
 
