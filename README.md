@@ -155,3 +155,5 @@ https://t.me/cloudAlarmClockBot?start=5305412077
 https://t.me/+SwjoigVYpcw3OTBl
 
 搜就完了 https://tgsou.me/findtg/?keyword=%E7%A4%BE%E5%B7%A5
+
+新增：https://t.me/ChatGPTSGKbot?start=WvcDovoXCV
