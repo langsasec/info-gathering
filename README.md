@@ -156,4 +156,6 @@ https://t.me/+SwjoigVYpcw3OTBl
 
 搜就完了 https://tgsou.me/findtg/?keyword=%E7%A4%BE%E5%B7%A5
 
-新增：https://t.me/ChatGPTSGKbot?start=WvcDovoXCV
+新增：
+https://t.me/ChatGPTSGKbot?start=WvcDovoXCV
+http://t.me/shegk66bot?start=odks46siw16
