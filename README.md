@@ -163,3 +163,5 @@ https://t.me/ChatGPTSGKbot?start=WvcDovoXCV
 http://t.me/shegk66bot?start=odks46siw16
 
 https://t.me/MI6SGK_bot?start=YEznpZe49V
+
+https://t.me/CLAYSGKbot?start=GC29CY91
