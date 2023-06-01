@@ -167,3 +167,22 @@ https://t.me/MI6SGK_bot?start=YEznpZe49V
 https://t.me/CLAYSGKbot?start=GC29CY91
 
 https://t.me/XingDunBot?start=butagB6
+
+6.1新增：
+
+https://t.me/LuoRiSGKbot
+
+http://t.me/sgk2023_03_30bot
+
+https://t.me/AISGKBOT
+
+https://t.me/GoogleSGKbot
+
+https://t.me/pingansgk_bot
+
+https://t.me/SGK_ABOT
+
+https://t.me/AJL01_bot
+
+https://t.me/sgkvipbot
+
